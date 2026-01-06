@@ -15,18 +15,23 @@ In low-risk contexts, such variability may be acceptable. In regulated and high-
 This led me to question point estimates and deterministic interpretations of model results, and to think instead in terms of probability, uncertainty, and safety mechanisms around decisions. The focus shifts from building models to designing decision systems — systems that explicitly account for uncertainty, human judgment, and responsibility.
 
 **3. Core Beliefs**
-•	Decisions are not predictions.
-Models produce predictions; decisions require human judgment informed by context, risk appetite, and consequences.
-•	Uncertainty cannot be eliminated, only managed.
-Systems should be designed to recognize and operate within uncertainty rather than ignore it.
-•	Models express belief, not truth.
-Probabilistic models encode beliefs based on available evidence; responsibility for decisions remains human.
-•	Governance is part of system design.
-Governance should be embedded before deployment, not introduced after failures.
-•	Over-automation increases hidden risk.
-Removing human judgment without explicit safeguards shifts risk rather than reducing it.
-•	Interpretability is a decision requirement, not a luxury.
-Decisions that cannot be explained cannot be responsibly owned.
+•	Decisions are not predictions:
+   Models produce predictions; decisions require human judgment informed by context, risk appetite, and consequences.
+   
+•	Uncertainty cannot be eliminated, only managed:
+   Systems should be designed to recognize and operate within uncertainty rather than ignore it.
+   
+•	Models express belief, not truth:
+   Probabilistic models encode beliefs based on available evidence; responsibility for decisions remains human.
+   
+•	Governance is part of system design:
+   Governance should be embedded before deployment, not introduced after failures.
+   
+•	Over-automation increases hidden risk:
+   Removing human judgment without explicit safeguards shifts risk rather than reducing it.
+   
+•	Interpretability is a decision requirement, not a luxury.:
+   Decisions that cannot be explained cannot be responsibly owned.
 
 
 **4. Probabilistic Operating System (POS) — Early Thinking**
@@ -67,31 +72,50 @@ Notes and writing are not used to record information, but to refine thinking. If
 **7. What This Archive Will Contain**
 This archive is intended to grow slowly and deliberately.
 Over time, it will include:
+
 •	Conceptual essays focused on decision-making under uncertainty rather than tools or implementations
+
 •	Interpretations of foundational texts, reframed in my own language and grounded in practical decision contexts
+
 •	Notes on decision architecture, including governance, human-in-the-loop design, and responsibility boundaries
+
 •	Case studies — initially conceptual and later applied — centered on decision consequences rather than model performance
+
 •	Visual representations where diagrams clarify reasoning better than text
+
 The intent is not completeness, but coherence.
 Updates are irregular by design, prioritizing depth, internal consistency, and long-term relevance over frequency.
 
 **8. Who This Archive Is For (and Who It Is Not)**
 This archive is written for:
+
 •	Leaders and practitioners operating in environments with genuine uncertainty and risk
+
 •	Architects and decision-makers responsible for systems where outcomes have real consequences
+
 •	Individuals seeking depth beyond surface-level treatments of AI and machine learning
+
 •	Those who value reasoning, assumptions, and accountability over automation and hype
+
 This archive is not intended for:
+
 •	Step-by-step tutorials or quick-start guides
+
 •	Tool comparisons or framework rankings
+
 •	Trend-driven or viral content
+
 •	Readers looking for definitive answers without engaging in the underlying reasoning
+
 These boundaries are intentional, to keep the thinking focused and honest.
 
 **9. A Short Professional Note**
 My background spans traditional software engineering and extended experience in banking and financial institutions, where systems operate under financial, regulatory, and reputational constraints.
+
 Over time, my focus shifted from building systems that function correctly to designing systems that support responsible decision-making. This led me toward probabilistic reasoning, decision intelligence, and governance-aware AI architectures.
+
 My current work and interests are centered on decision intelligence, probabilistic system design, and human-in-the-loop approaches for enterprise environments. This archive reflects that ongoing thinking rather than a finalized position.
+
 
 **10. Closing Note**
 Some ideas require time, revisiting, and discomfort before they become clear. This archive exists to give those ideas space to evolve without forcing premature conclusions.
