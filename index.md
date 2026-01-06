@@ -50,22 +50,23 @@ The idea of a Probabilistic Operating System emerged from this gap. POS is not a
 This section represents early thinking. The intent is not to present answers, but to make the underlying decision questions explicit and discussable.
 
 **5. Failure Patterns I See in Modern ML Systems**
-#Curve fitting mistaken for understanding
+
+**Curve fitting mistaken for understanding**
 Statistical curve fitting is often treated as insight. Point estimates are produced without sufficient consideration of uncertainty, distributional behavior, or decision implications.
 
-#Accuracy obsession ignoring decision cost
+**Accuracy obsession ignoring decision cost**
 Accuracy is meaningful in controlled or research settings. In production environments, especially high-stakes ones, decision cost, risk asymmetry, and error consequences matter more than aggregate accuracy metrics.
 
-#Probabilities treated as scores
+**Probabilities treated as scores**
 Probabilistic outputs are frequently consumed as ranking scores rather than interpreted as expressions of uncertainty. The translation from probability to organizational risk exposure is often missing.
 
-#Models deployed without regime awareness
+**Models deployed without regime awareness**
 Models are deployed without explicit consideration of regime changes, latent structure, or contextual stability. As conditions shift, model behaviour degrades silently, increasing decision risk.
 
-#Human override paths missing
+**Human override paths missing**
 Many systems lack explicit mechanisms for human validation, override, freezing, or escalation. Without these decision pathways, models displace judgment instead of supporting it.
 
-#Governance added after failures
+**Governance added after failures**
 Governance is commonly introduced post hoc, after incidents or audits. When governance is not designed into the system from the beginning, the cost of correction is often high and sometimes irreversible.
 
 My approach to learning is centered on translating abstract theory into structures that support real-world decisions.
