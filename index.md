@@ -151,3 +151,12 @@ I am comfortable allowing this work to remain incomplete in places, with open qu
 
 If this archive proves useful to others, that is welcome. If it primarily helps me think more clearly over time, it has already served its purpose.
 
+## Articles and Notes
+
+- **Why Linear Regression Is About Understanding the World**  
+  [Read →](linear-regression-understanding-the-world.html)
+
+- **Why Logistic Regression Is Really About Decision Boundaries**  
+  [Read →](logistic-regression-decision-boundaries.html)
+
+
