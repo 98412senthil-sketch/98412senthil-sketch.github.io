@@ -4,11 +4,11 @@ Most people encounter regression as a technical tool.
 But over time, something becomes clear:
 
 Regression is not about prediction.
-It is about how we choose to *interpret reality.*
+It is about how we choose to **interpret reality.**
 
-As problems grow more complex, simple regression quietly stops being enough — not because the math fails, but because the assumptions fail.
+As problems grow more complex, simple regression quietly stops being enough — not because the math fails, but because the **assumptions fail.**
 
-From a Single World to Many Worlds
+## From a Single World to Many Worlds
 
 Linear regression assumes a simple world:
 
@@ -28,22 +28,22 @@ Events happen in counts
 
 Costs and durations are skewed
 
-Generalized Linear Models (GLM) exist because the world does not always behave linearly — but it still behaves systematically.
+Generalized Linear Models (GLM) exist because the world does not always behave linearly — but it still behaves **systematically.**
 
 GLM is not a different model.
-It is an admission that uncertainty takes different shapes.
+It is an admission that uncertainty takes **different shapes.**
 
-What GLM Really Changes
+## What GLM Really Changes
 
 GLM quietly separates three ideas that were previously mixed together:
 
-What kind of outcome are we observing?
+**What kind of outcome are we observing?**
 
-How do inputs combine into belief?
+**How do inputs combine into belief?**
 
-How does belief translate into expectation?
+**How does belief translate into expectation?**
 
-Once these are separated, modeling becomes less about fitting curves and more about respecting the nature of the outcome.
+Once these are separated, modeling becomes less about fitting curves and more about **respecting the nature of the outcome.**
 
 Binary decisions are not noisy numbers.
 Counts are not stretched lines.
@@ -51,7 +51,7 @@ Durations are not symmetric.
 
 GLM is the point where modeling starts taking reality seriously.
 
-When One Model Is Not Enough
+## When One Model Is Not Enough
 
 Even GLM still assumes something fragile:
 that all observations belong to the same world.
@@ -66,7 +66,7 @@ Treating these differences as noise simplifies the math — but it weakens decis
 
 This is where Generalized Linear Mixed Models (GLMM) enter quietly.
 
-What GLMM Acknowledges
+## What GLMM Acknowledges
 
 GLMM does something subtle but important:
 it allows one global logic and many local realities to coexist.
@@ -80,7 +80,7 @@ It is an acknowledgment that structure exists across levels.
 Good decisions are not built on averages.
 They are built on controlled variation.
 
-The Reality We Still Don’t See
+## The Reality We Still Don’t See
 
 Even hierarchy is not the whole story.
 
@@ -102,7 +102,7 @@ It is a way of saying:
 
 “We know something is happening — even if we cannot see it yet.”
 
-A Quiet Shift in Perspective
+## A Quiet Shift in Perspective
 
 Seen this way:
 
@@ -121,7 +121,7 @@ to decision awareness
 This is not advanced modeling.
 It is mature modeling.
 
-Why This Matters
+## Why This Matters
 
 Most analytical systems fail not because they are wrong,
 but because they assume the world is simpler than it is.
