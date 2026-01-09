@@ -1,4 +1,3 @@
-# Linear Regression Article — Version 1.0 (Public-Ready, Still Private)
 ## Why Linear Regression Is About Understanding the World, Not Just Fitting Data
 
 Linear regression is often introduced as one of the simplest tools in machine learning — a method for fitting a straight line through data. In many educational and applied settings, it is treated primarily as a predictive shortcut: find the best-fitting line, minimize error, and move on.
