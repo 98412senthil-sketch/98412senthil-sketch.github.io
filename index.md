@@ -159,4 +159,8 @@ If this archive proves useful to others, that is welcome. If it primarily helps 
 - **Why Logistic Regression Is Really About Decision Boundaries**  
   [Read →](logistic-regression-decision-boundaries.html)
 
+  **Why GLM and GLMM are about uncertainty and Structure**
+  [Read ->](why-glm-and-glmm-are-about-uncertainty-and-structure.html)
 
+  **Why Bayesian networks are about how we reason**
+  [Read ->](why-bayesian-networks-are-about-how-we-reason.html)
