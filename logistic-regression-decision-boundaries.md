@@ -1,7 +1,3 @@
-# Logistic Regression Article — Version 1.0
-
-**(Public-Ready, Still Private / Unlinked)**
-
 ## Why Logistic Regression Is Really About Decision Boundaries, Not Just Classification
 
 Logistic regression is commonly introduced as a binary classification algorithm. Given a set of input features, it predicts whether an observation belongs to one class or another, and its performance is typically evaluated using metrics such as accuracy, precision, or recall.
