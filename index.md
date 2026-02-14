@@ -37,7 +37,7 @@ A governance-first AI-assisted onboarding reference architecture integrating:
 This space is my working lab for connecting probabilistic models, decision theory, and enterprise system design, with the long-term goal of consolidating these ideas into a cohesive doctrine.
 
 Explore thinking Space : 
-[[ Thinking Space ](https://98412senthil-sketch.github.io/)]
+[[ Thinking Space ](https://98412senthil-sketch.github.io/thinking-space)]
 
 
 ### Probabilistic Operating System (POS)
