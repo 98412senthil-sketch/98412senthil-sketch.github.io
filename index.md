@@ -1,10 +1,4 @@
-# Senthilkumar Subramanian
-Hive Tech Lead at a global bank, building governance-first AI decision systems.
-## Enterprise AI Architecture | Governance-First Systems | Banking Technology Leader
 
----
-
-## About
 
 I bring **29+ years of technology experience** across banking and financial institutions — including **18+ years within a global banking organization** leading enterprise-scale systems.
 
